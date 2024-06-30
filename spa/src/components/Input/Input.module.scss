@@ -1,0 +1,19 @@
+.input{
+	border: 1px solid #E1E3E6;
+	border-radius: 8px;
+	height: 40px;
+	width: 296px;
+	padding: 12px;
+	outline: none;
+}
+.wrapper{
+	display: flex;
+	flex-direction: column;
+	gap: 4px;
+	font-size: 14px;
+	font-weight: 400;
+}
+.required{
+	color: #F04075;
+	margin-left: 4px;
+}

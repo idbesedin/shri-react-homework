@@ -1,0 +1,37 @@
+.header {
+	background-color: #333333;
+	padding: 24px 32px;
+	display: flex;
+	justify-content: space-between;
+	position: sticky;
+}
+.title{
+	font-size: 32px;
+	font-weight: 700;
+	color: white;
+}
+.wrapper{
+	display: flex;
+	gap: 16px;
+}
+.icon{
+	background-color: white;
+	border-radius: 32px;
+	width: 40px;
+	height: 40px;
+	padding: 8px;
+	cursor: pointer;
+}
+.inputs{
+	display: flex;
+	gap: 16px;
+	flex-direction: column;
+	align-items: flex-start;
+}
+.btns{
+	display: flex;
+	gap: 8px;
+}
+.body{
+	padding: 32px 20px;
+}

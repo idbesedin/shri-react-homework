@@ -1,0 +1,14 @@
+.select{
+	outline: none;
+	height: 40px;
+	width: 360px;
+	border: 1px solid #E1E3E6;
+	border-radius: 8px;
+}
+.wrapper{
+	display: flex;
+	flex-direction: column;
+	gap: 4px;
+	font-size: 14px;
+	font-weight: 400;
+}
